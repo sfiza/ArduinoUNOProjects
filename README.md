@@ -2,4 +2,4 @@
 ArduinoUNO projects
 
 Spaceship Interface: 
-Control behvior of LED's based on a switch. 
+Control behavior of LED's based on a switch. 
